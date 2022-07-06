@@ -1,25 +1,5 @@
 [
   {
-    "name": "TaskBoard API",
-    "url": "https://taskboard-api.vercel.app/",
-    "icon": "https://favicons.githubusercontent.com/taskboard-api.vercel.app",
-    "slug": "task-board-api",
-    "status": "down",
-    "uptime": "10.45%",
-    "uptimeDay": "10.45%",
-    "uptimeWeek": "10.45%",
-    "uptimeMonth": "10.45%",
-    "uptimeYear": "10.45%",
-    "time": 169,
-    "timeDay": 169,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 169,
-    "dailyMinutesDown": {
-      "2022-07-06": 0
-    }
-  },
-  {
     "name": "felPDF Web",
     "url": "https://felpdf.vercel.app/",
     "icon": "https://favicons.githubusercontent.com/felpdf.vercel.app",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 900,
-    "timeDay": 900,
-    "timeWeek": 900,
-    "timeMonth": 900,
-    "timeYear": 900,
+    "time": 960,
+    "timeDay": 960,
+    "timeWeek": 960,
+    "timeMonth": 960,
+    "timeYear": 960,
     "dailyMinutesDown": {}
   }
 ]
