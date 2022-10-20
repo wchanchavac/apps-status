@@ -4,10 +4,10 @@
     "url": "https://taskboard-api.vercel.app/.well-known/apollo/server-health",
     "icon": "https://icons.duckduckgo.com/ip3/taskboard-api.vercel.app.ico",
     "slug": "task-board-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1382,
@@ -15,16 +15,18 @@
     "timeWeek": 1300,
     "timeMonth": 1358,
     "timeYear": 1382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-20": 2
+    }
   },
   {
     "name": "felPDF Web",
     "url": "https://felpdf.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/felpdf.vercel.app.ico",
     "slug": "fel-pdf-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 906,
     "timeMonth": 854,
     "timeYear": 841,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-20": 0
+    }
   },
   {
     "name": "felPDF API",
