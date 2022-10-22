@@ -6,15 +6,15 @@
     "slug": "task-board-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 1386,
-    "timeDay": 1608,
-    "timeWeek": 1354,
-    "timeMonth": 1373,
-    "timeYear": 1386,
+    "time": 1392,
+    "timeDay": 1956,
+    "timeWeek": 1423,
+    "timeMonth": 1428,
+    "timeYear": 1392,
     "dailyMinutesDown": {
       "2022-10-20": 20
     }
@@ -26,14 +26,14 @@
     "slug": "fel-pdf-web",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 845,
-    "timeDay": 1035,
-    "timeWeek": 911,
-    "timeMonth": 862,
+    "timeDay": 950,
+    "timeWeek": 918,
+    "timeMonth": 861,
     "timeYear": 845,
     "dailyMinutesDown": {
       "2022-10-20": 19
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1192,
-    "timeDay": 1942,
-    "timeWeek": 1510,
+    "time": 1182,
+    "timeDay": 192,
+    "timeWeek": 1524,
     "timeMonth": 1426,
-    "timeYear": 1192,
+    "timeYear": 1182,
     "dailyMinutesDown": {}
   }
 ]
