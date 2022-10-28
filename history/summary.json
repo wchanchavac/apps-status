@@ -4,19 +4,19 @@
     "url": "https://taskboard-api.vercel.app/.well-known/apollo/server-health",
     "icon": "https://icons.duckduckgo.com/ip3/taskboard-api.vercel.app.ico",
     "slug": "task-board-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 1392,
-    "timeDay": 1884,
-    "timeWeek": 1471,
-    "timeMonth": 1357,
+    "timeDay": 1657,
+    "timeWeek": 1466,
+    "timeMonth": 1398,
     "timeYear": 1392,
     "dailyMinutesDown": {
-      "2022-10-28": 0,
+      "2022-10-28": 25,
       "2022-10-20": 20
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 843,
-    "timeDay": 1194,
-    "timeWeek": 823,
+    "time": 837,
+    "timeDay": 680,
+    "timeWeek": 741,
     "timeMonth": 899,
-    "timeYear": 843,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2022-10-20": 19
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1203,
-    "timeDay": 2054,
-    "timeWeek": 1375,
-    "timeMonth": 1480,
-    "timeYear": 1203,
+    "time": 1228,
+    "timeDay": 3049,
+    "timeWeek": 1709,
+    "timeMonth": 1609,
+    "timeYear": 1228,
     "dailyMinutesDown": {}
   }
 ]
