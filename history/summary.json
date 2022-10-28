@@ -4,9 +4,9 @@
     "url": "https://taskboard-api.vercel.app/.well-known/apollo/server-health",
     "icon": "https://icons.duckduckgo.com/ip3/taskboard-api.vercel.app.ico",
     "slug": "task-board-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1357,
     "timeYear": 1392,
     "dailyMinutesDown": {
+      "2022-10-28": 0,
       "2022-10-20": 20
     }
   },
