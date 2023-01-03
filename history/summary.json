@@ -46,17 +46,19 @@
     "url": "https://invoices-api.vercel.app/.well-known/apollo/server-health",
     "icon": "https://icons.duckduckgo.com/ip3/invoices-api.vercel.app.ico",
     "slug": "fel-pdf-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1261,
-    "timeDay": 72,
-    "timeWeek": 1128,
-    "timeMonth": 1272,
-    "timeYear": 1261,
-    "dailyMinutesDown": {}
+    "time": 1255,
+    "timeDay": 65,
+    "timeWeek": 995,
+    "timeMonth": 1235,
+    "timeYear": 1255,
+    "dailyMinutesDown": {
+      "2023-01-03": 0
+    }
   }
 ]
