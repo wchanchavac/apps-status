@@ -1,7 +1,7 @@
 url: https://taskboard-api.vercel.app/.well-known/apollo/server-health
-status: down
-code: 500
-responseTime: 8776
-lastUpdated: 2023-06-13T18:53:55.047Z
+status: up
+code: 200
+responseTime: 1695
+lastUpdated: 2023-06-13T20:43:25.377Z
 startTime: Wed Jul 06 2022 23:50:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
