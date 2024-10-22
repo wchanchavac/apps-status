@@ -4,19 +4,19 @@
     "url": "https://taskboard-api.vercel.app/.well-known/apollo/server-health",
     "icon": "https://icons.duckduckgo.com/ip3/taskboard-api.vercel.app.ico",
     "slug": "task-board-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 1379,
-    "timeDay": 204,
-    "timeWeek": 984,
-    "timeMonth": 808,
-    "timeYear": 1395,
+    "time": 1380,
+    "timeDay": 933,
+    "timeWeek": 1069,
+    "timeMonth": 836,
+    "timeYear": 1396,
     "dailyMinutesDown": {
-      "2024-10-22": 1
+      "2024-10-22": 26
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://felpdf.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/felpdf.vercel.app.ico",
     "slug": "fel-pdf-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 196,
-    "timeWeek": 797,
-    "timeMonth": 670,
-    "timeYear": 888,
+    "time": 852,
+    "timeDay": 580,
+    "timeWeek": 818,
+    "timeMonth": 679,
+    "timeYear": 889,
     "dailyMinutesDown": {
-      "2024-10-22": 1
+      "2024-10-22": 26
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://invoices-api.vercel.app/.well-known/apollo/server-health",
     "icon": "https://icons.duckduckgo.com/ip3/invoices-api.vercel.app.ico",
     "slug": "fel-pdf-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 1911,
-    "timeDay": 218,
-    "timeWeek": 1609,
-    "timeMonth": 1166,
-    "timeYear": 1968,
+    "time": 1915,
+    "timeDay": 1194,
+    "timeWeek": 1679,
+    "timeMonth": 1198,
+    "timeYear": 1969,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 25
     }
   }
 ]
