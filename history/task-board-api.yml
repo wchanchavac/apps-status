@@ -1,7 +1,7 @@
 url: https://taskboard-api.vercel.app/.well-known/apollo/server-health
 status: up
 code: 200
-responseTime: 1421
-lastUpdated: 2025-01-04T23:03:40.213Z
+responseTime: 1566
+lastUpdated: 2025-01-05T23:03:45.727Z
 startTime: 2022-07-06T23:50:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
