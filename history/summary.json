@@ -4,18 +4,19 @@
     "url": "https://taskboard-api.vercel.app/.well-known/apollo/server-health",
     "icon": "https://icons.duckduckgo.com/ip3/taskboard-api.vercel.app.ico",
     "slug": "task-board-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1257,
+    "time": 1256,
     "timeDay": 1509,
     "timeWeek": 1543,
     "timeMonth": 1497,
     "timeYear": 1180,
     "dailyMinutesDown": {
+      "2025-07-22": 0,
       "2024-10-22": 26
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://felpdf.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/felpdf.vercel.app.ico",
     "slug": "fel-pdf-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 839,
+    "time": 838,
     "timeDay": 969,
     "timeWeek": 1019,
     "timeMonth": 946,
     "timeYear": 794,
     "dailyMinutesDown": {
+      "2025-07-22": 0,
       "2024-10-22": 26
     }
   },
@@ -44,18 +46,19 @@
     "url": "https://invoices-api.vercel.app/.well-known/apollo/server-health",
     "icon": "https://icons.duckduckgo.com/ip3/invoices-api.vercel.app.ico",
     "slug": "fel-pdf-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1694,
+    "time": 1692,
     "timeDay": 2142,
     "timeWeek": 2131,
     "timeMonth": 1959,
     "timeYear": 1563,
     "dailyMinutesDown": {
+      "2025-07-22": 0,
       "2024-10-22": 25
     }
   }
