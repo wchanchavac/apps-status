@@ -6,9 +6,9 @@
     "slug": "task-board-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1255,
     "timeDay": 1637,
@@ -16,7 +16,6 @@
     "timeMonth": 1503,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2025-07-24": 12,
       "2025-07-22": 15,
       "2024-10-22": 26
     }
@@ -28,9 +27,9 @@
     "slug": "fel-pdf-web",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 829,
     "timeDay": 968,
@@ -38,7 +37,6 @@
     "timeMonth": 937,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2025-07-24": 12,
       "2025-07-22": 15,
       "2024-10-22": 26
     }
@@ -50,9 +48,9 @@
     "slug": "fel-pdf-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1679,
     "timeDay": 2199,
@@ -60,7 +58,6 @@
     "timeMonth": 1986,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2025-07-24": 12,
       "2025-07-22": 15,
       "2024-10-22": 25
     }
