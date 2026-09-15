@@ -1,7 +1,7 @@
 url: https://invoices-api.vercel.app/.well-known/apollo/server-health
 status: up
 code: 200
-responseTime: 1874
-lastUpdated: 2026-09-14T00:43:31.288Z
+responseTime: 2272
+lastUpdated: 2026-09-15T01:09:48.378Z
 startTime: 2022-07-06T23:50:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
